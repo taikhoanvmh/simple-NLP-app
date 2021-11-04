@@ -12,3 +12,4 @@ Xây dựng một ứng dụng đơn giản để hỗ trợ tiền xử lí tro
 * Hỗ trợ sửa đổi trực tiếp trên màn hình để có kết quả đúng nhất
 
 
+![] (pic/3.2%2C%20Thêm%20từ.jpg)
